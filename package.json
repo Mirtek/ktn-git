@@ -1,0 +1,24 @@
+{
+  "name": "react-gif-search",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-button": "^1.2.1",
+    "react-datepicker": "^0.53.0",
+    "react-dom": "^15.6.1",
+    "react-modal": "^2.2.2",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
