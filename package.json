@@ -14,6 +14,7 @@
     "superagent": "^3.5.2"
   },
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "react-scripts": "1.0.10"
   },
   "scripts": {
